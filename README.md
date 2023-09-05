@@ -1,6 +1,6 @@
 # Yulqen
 
 - 👋 Hi, I’m @yulqen
-- 👀 I’m interested in Python, Clojure, Lisp, Perl, Linux, OpenBSD, Go, C and lots of other stuff.
-- 🌱 I’ve been learning Clojure but I'm switching attention back to Python now.
+- 👀 I’m interested in C, C++, Python, Clojure, Lisp, Perl, Linux, OpenBSD, Go and lots of other stuff.
+- 🌱 I'm learning C and C++.
 - 📫 How to reach me: y at yulqen.org
